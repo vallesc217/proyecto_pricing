@@ -1,0 +1,578 @@
+[
+  {
+    "Pais": "CHILE",
+    "Perfil": "Jefe Proyecto",
+    "Seniority": "Jr",
+    "USD": " 2,338.38 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Jefe Proyecto",
+    "Seniority": "Ssr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Jefe Proyecto",
+    "Seniority": "Sr",
+    "USD": " 4,308.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Arquitecto Cloud",
+    "Seniority": "Sr",
+    "USD": " 5,658.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Arquitecto de Software",
+    "Seniority": "Ssr",
+    "USD": " 3,759.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Arquitecto de Software",
+    "Seniority": "Sr",
+    "USD": " 4,941.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Arquitecto de Software",
+    "Seniority": "Jr",
+    "USD": " 2,690.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Cientifico de Datos",
+    "Seniority": "Ssr",
+    "USD": " 3,871.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Cientifico de Datos",
+    "Seniority": "Sr",
+    "USD": " 5,573.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Calidad QA",
+    "Seniority": "Jr",
+    "USD": " 1,465.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Calidad QA",
+    "Seniority": "Ssr",
+    "USD": " 2,338.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Calidad QA",
+    "Seniority": "Sr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DevOps",
+    "Seniority": "Sr",
+    "USD": " 3,478.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Fullstack",
+    "Seniority": "Jr",
+    "USD": " 4,960.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Fullstack",
+    "Seniority": "Ssr",
+    "USD": " 6,560.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Fullstack",
+    "Seniority": "Sr",
+    "USD": " 6,880.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Front-end",
+    "Seniority": "Sr",
+    "USD": " 3,808.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Back-end (Java)",
+    "Seniority": "Sr",
+    "USD": " 3,842.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Back-end (Python)",
+    "Seniority": "Sr",
+    "USD": " 3,808.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador PHP",
+    "Seniority": "Jr",
+    "USD": " 1,810.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador PHP",
+    "Seniority": "Ssr",
+    "USD": " 2,691.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador PHP",
+    "Seniority": "Sr",
+    "USD": " 3,576.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Funcional ",
+    "Seniority": "Jr",
+    "USD": " 1,809.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Funcional ",
+    "Seniority": "Ssr",
+    "USD": " 2,514.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Funcional ",
+    "Seniority": "Sr",
+    "USD": " 3,575.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Datos",
+    "Seniority": "Jr",
+    "USD": " 3,282.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Datos",
+    "Seniority": "Ssr",
+    "USD": " 3,873.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Datos",
+    "Seniority": "Sr",
+    "USD": " 4,850.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Program Manager",
+    "Seniority": "Ssr",
+    "USD": " 4,753.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Program Manager",
+    "Seniority": "Sr",
+    "USD": " 4,892.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA",
+    "Seniority": "Ssr",
+    "USD": " 4,595.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA",
+    "Seniority": "Sr",
+    "USD": " 4,892.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA SQL SERVER",
+    "Seniority": "Jr",
+    "USD": " 1,809.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA SQL SERVER",
+    "Seniority": "Ssr",
+    "USD": " 2,866.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA SQL SERVER",
+    "Seniority": "Sr",
+    "USD": " 4,492.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA ORACLE",
+    "Seniority": "Jr",
+    "USD": " 1,809.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA ORACLE",
+    "Seniority": "Ssr",
+    "USD": " 2,866.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "DBA ORACLE",
+    "Seniority": "Sr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Diseñador UX",
+    "Seniority": "Sr",
+    "USD": " 3,156.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Especialista de Seguridad",
+    "Seniority": "Sr",
+    "USD": " 5,233.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Documentador",
+    "Seniority": "Ssr",
+    "USD": " 2,841.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Procesos",
+    "Seniority": "Jr",
+    "USD": " 1,633.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Procesos",
+    "Seniority": "Ssr",
+    "USD": " 2,690.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista de Procesos",
+    "Seniority": "Sr",
+    "USD": " 3,575.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Sistemas",
+    "Seniority": "Jr",
+    "USD": " 1,809.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Sistemas",
+    "Seniority": "Ssr",
+    "USD": " 2,690.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ingeniero de Sistemas",
+    "Seniority": "Sr",
+    "USD": " 3,575.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador .NET",
+    "Seniority": "Jr",
+    "USD": " 1,986.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador .NET",
+    "Seniority": "Ssr",
+    "USD": " 2,867.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador .NET",
+    "Seniority": "Sr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVA ",
+    "Seniority": "Jr",
+    "USD": " 2,162.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVA ",
+    "Seniority": "Ssr",
+    "USD": " 3,043.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVA ",
+    "Seniority": "Sr",
+    "USD": " 4,493.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVASCRIPT",
+    "Seniority": "Jr",
+    "USD": " 1,810.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVASCRIPT",
+    "Seniority": "Ssr",
+    "USD": " 2,515.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador JAVASCRIPT",
+    "Seniority": "Sr",
+    "USD": " 3,043.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador ABAP",
+    "Seniority": "Jr",
+    "USD": " 2,162.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador ABAP",
+    "Seniority": "Ssr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador ABAP",
+    "Seniority": "Sr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador VISUAL BASIC",
+    "Seniority": "Jr",
+    "USD": " 1,634.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador VISUAL BASIC",
+    "Seniority": "Ssr",
+    "USD": " 2,691.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador VISUAL BASIC",
+    "Seniority": "Sr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte Microsoft",
+    "Seniority": "Jr",
+    "USD": " 1,465.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte Microsoft",
+    "Seniority": "Ssr",
+    "USD": " 1,986.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte Microsoft",
+    "Seniority": "Sr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Infraestructura",
+    "Seniority": "Jr",
+    "USD": " 2,162.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Infraestructura",
+    "Seniority": "Ssr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Infraestructura",
+    "Seniority": "Sr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Ciberseguridad",
+    "Seniority": "Jr",
+    "USD": " 2,162.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Ciberseguridad",
+    "Seniority": "Ssr",
+    "USD": " 3,219.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Analista Ciberseguridad",
+    "Seniority": "Sr",
+    "USD": " 4,308.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte redes ",
+    "Seniority": "Jr",
+    "USD": " 1,465.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte redes ",
+    "Seniority": "Ssr",
+    "USD": " 2,338.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Soporte redes ",
+    "Seniority": "Sr",
+    "USD": " 2,867.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Consultor Dynamics CRM Senior",
+    "Seniority": "Sr",
+    "USD": " 4,801.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Consultor Dynamics CRM Semi senior",
+    "Seniority": "Ssr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Consultor Dynamics CRM Junior",
+    "Seniority": "Jr",
+    "USD": " 2,867.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ciberseguridad Cloud Senior",
+    "Seniority": "Sr",
+    "USD": " 5,213.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Ciberseguridad Cloud Semi senior",
+    "Seniority": "Ssr",
+    "USD": " 4,493.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Consultor Azure e IA Semisenior",
+    "Seniority": "Ssr",
+    "USD": " 4,493.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Consultor Azure e IA Senior",
+    "Seniority": "Sr",
+    "USD": " 5,213.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Python Junior",
+    "Seniority": "Jr",
+    "USD": " 2,691.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Python Semi senior",
+    "Seniority": "Ssr",
+    "USD": " 3,940.00 "
+  },
+  {
+    "Pais": "CHILE",
+    "Perfil": "Desarrollador Python Senior",
+    "Seniority": "Sr",
+    "USD": " 4,941.00 "
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Android",
+    "Seniority": "Jr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Android",
+    "Seniority": "Ssr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Android",
+    "Seniority": "Sr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Angular",
+    "Seniority": "Jr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Angular",
+    "Seniority": "Ssr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador Angular",
+    "Seniority": "Sr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador IOS",
+    "Seniority": "Jr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador IOS",
+    "Seniority": "Ssr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador IOS",
+    "Seniority": "Sr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador React",
+    "Seniority": "Jr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador React",
+    "Seniority": "Ssr",
+    "USD": null
+  },
+  {
+    "Pais": "CHILE - ARG",
+    "Perfil": "Desarrollador React",
+    "Seniority": "Sr",
+    "USD": null
+  }
+]
