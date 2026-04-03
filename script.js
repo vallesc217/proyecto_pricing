@@ -7,9 +7,11 @@ let table = new DataTable('#myTable', {
     },
     columns:[
         {data: 'Pais'},
+        {data: 'Partner'},
         {data: 'Perfil'},        
         {data: 'Seniority'},
-        {data: 'USD'}
+        {data: 'Fecha de Actualizacion'},
+        {data: 'Costo Empresa'}
     ]
 
 })
