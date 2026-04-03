@@ -1,578 +1,1850 @@
 [
-  {
-    "Pais": "CHILE",
-    "Perfil": "Jefe Proyecto",
-    "Seniority": "Jr",
-    "USD": " 2,338.38 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Jefe Proyecto",
-    "Seniority": "Ssr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Jefe Proyecto",
-    "Seniority": "Sr",
-    "USD": " 4,308.00 "
-  },
-  {
-    "Pais": "PERU",
-    "Perfil": "Arquitecto Cloud",
-    "Seniority": "Sr",
-    "USD": " 5,658.00 "
-  },
-  {
-    "Pais": "PERU",
-    "Perfil": "Arquitecto de Software",
-    "Seniority": "Ssr",
-    "USD": " 3,759.00 "
-  },
-  {
-    "Pais": "PERU",
-    "Perfil": "Arquitecto de Software",
-    "Seniority": "Sr",
-    "USD": " 4,941.00 "
-  },
-  {
-    "Pais": "PERU",
-    "Perfil": "Arquitecto de Software",
-    "Seniority": "Jr",
-    "USD": " 2,690.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Cientifico de Datos",
-    "Seniority": "Ssr",
-    "USD": " 3,871.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Cientifico de Datos",
-    "Seniority": "Sr",
-    "USD": " 5,573.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Calidad QA",
-    "Seniority": "Jr",
-    "USD": " 1,465.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Calidad QA",
-    "Seniority": "Ssr",
-    "USD": " 2,338.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Calidad QA",
-    "Seniority": "Sr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DevOps",
-    "Seniority": "Sr",
-    "USD": " 3,478.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Fullstack",
-    "Seniority": "Jr",
-    "USD": " 4,960.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Fullstack",
-    "Seniority": "Ssr",
-    "USD": " 6,560.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Fullstack",
-    "Seniority": "Sr",
-    "USD": " 6,880.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Front-end",
-    "Seniority": "Sr",
-    "USD": " 3,808.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Back-end (Java)",
-    "Seniority": "Sr",
-    "USD": " 3,842.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Back-end (Python)",
-    "Seniority": "Sr",
-    "USD": " 3,808.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador PHP",
-    "Seniority": "Jr",
-    "USD": " 1,810.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador PHP",
-    "Seniority": "Ssr",
-    "USD": " 2,691.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador PHP",
-    "Seniority": "Sr",
-    "USD": " 3,576.00 "
-  },
-  {
-    "Pais": "COLOMBIA",
-    "Perfil": "Analista Funcional ",
-    "Seniority": "Jr",
-    "USD": " 1,809.00 "
-  },
-  {
-    "Pais": "COLOMBIA",
-    "Perfil": "Analista Funcional ",
-    "Seniority": "Ssr",
-    "USD": " 2,514.00 "
-  },
-  {
-    "Pais": "COLOMBIA",
-    "Perfil": "Analista Funcional ",
-    "Seniority": "Sr",
-    "USD": " 3,575.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Ingeniero de Datos",
-    "Seniority": "Jr",
-    "USD": " 3,282.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Ingeniero de Datos",
-    "Seniority": "Ssr",
-    "USD": " 3,873.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Ingeniero de Datos",
-    "Seniority": "Sr",
-    "USD": " 4,850.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Program Manager",
-    "Seniority": "Ssr",
-    "USD": " 4,753.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Program Manager",
-    "Seniority": "Sr",
-    "USD": " 4,892.00 "
-  },
-  {
-    "Pais": "COLOMBIA",
-    "Perfil": "DBA",
-    "Seniority": "Ssr",
-    "USD": " 4,595.00 "
-  },
-  {
-    "Pais": "COLOMBIA",
-    "Perfil": "DBA",
-    "Seniority": "Sr",
-    "USD": " 4,892.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA SQL SERVER",
-    "Seniority": "Jr",
-    "USD": " 1,809.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA SQL SERVER",
-    "Seniority": "Ssr",
-    "USD": " 2,866.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA SQL SERVER",
-    "Seniority": "Sr",
-    "USD": " 4,492.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA ORACLE",
-    "Seniority": "Jr",
-    "USD": " 1,809.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA ORACLE",
-    "Seniority": "Ssr",
-    "USD": " 2,866.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "DBA ORACLE",
-    "Seniority": "Sr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Diseñador UX",
-    "Seniority": "Sr",
-    "USD": " 3,156.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Especialista de Seguridad",
-    "Seniority": "Sr",
-    "USD": " 5,233.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Documentador",
-    "Seniority": "Ssr",
-    "USD": " 2,841.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Procesos",
-    "Seniority": "Jr",
-    "USD": " 1,633.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Procesos",
-    "Seniority": "Ssr",
-    "USD": " 2,690.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista de Procesos",
-    "Seniority": "Sr",
-    "USD": " 3,575.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Ingeniero de Sistemas",
-    "Seniority": "Jr",
-    "USD": " 1,809.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Ingeniero de Sistemas",
-    "Seniority": "Ssr",
-    "USD": " 2,690.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Ingeniero de Sistemas",
-    "Seniority": "Sr",
-    "USD": " 3,575.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador .NET",
-    "Seniority": "Jr",
-    "USD": " 1,986.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador .NET",
-    "Seniority": "Ssr",
-    "USD": " 2,867.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador .NET",
-    "Seniority": "Sr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVA ",
-    "Seniority": "Jr",
-    "USD": " 2,162.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVA ",
-    "Seniority": "Ssr",
-    "USD": " 3,043.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVA ",
-    "Seniority": "Sr",
-    "USD": " 4,493.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVASCRIPT",
-    "Seniority": "Jr",
-    "USD": " 1,810.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVASCRIPT",
-    "Seniority": "Ssr",
-    "USD": " 2,515.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador JAVASCRIPT",
-    "Seniority": "Sr",
-    "USD": " 3,043.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Desarrollador ABAP",
-    "Seniority": "Jr",
-    "USD": " 2,162.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Desarrollador ABAP",
-    "Seniority": "Ssr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "ARGENTINA",
-    "Perfil": "Desarrollador ABAP",
-    "Seniority": "Sr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador VISUAL BASIC",
-    "Seniority": "Jr",
-    "USD": " 1,634.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador VISUAL BASIC",
-    "Seniority": "Ssr",
-    "USD": " 2,691.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador VISUAL BASIC",
-    "Seniority": "Sr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Soporte Microsoft",
-    "Seniority": "Jr",
-    "USD": " 1,465.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Soporte Microsoft",
-    "Seniority": "Ssr",
-    "USD": " 1,986.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Soporte Microsoft",
-    "Seniority": "Sr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Infraestructura",
-    "Seniority": "Jr",
-    "USD": " 2,162.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Infraestructura",
-    "Seniority": "Ssr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Infraestructura",
-    "Seniority": "Sr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista Ciberseguridad",
-    "Seniority": "Jr",
-    "USD": " 2,162.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista Ciberseguridad",
-    "Seniority": "Ssr",
-    "USD": " 3,219.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Analista Ciberseguridad",
-    "Seniority": "Sr",
-    "USD": " 4,308.00 "
-  },
-  {
-    "Pais": "MEXICO",
-    "Perfil": "Soporte redes ",
-    "Seniority": "Jr",
-    "USD": " 1,465.00 "
-  },
-  {
-    "Pais": "MEXICO",
-    "Perfil": "Soporte redes ",
-    "Seniority": "Ssr",
-    "USD": " 2,338.00 "
-  },
-  {
-    "Pais": "MEXICO",
-    "Perfil": "Soporte redes ",
-    "Seniority": "Sr",
-    "USD": " 2,867.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Consultor Dynamics CRM Senior",
-    "Seniority": "Sr",
-    "USD": " 4,801.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Consultor Dynamics CRM Semi senior",
-    "Seniority": "Ssr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Consultor Dynamics CRM Junior",
-    "Seniority": "Jr",
-    "USD": " 2,867.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Ciberseguridad Cloud Senior",
-    "Seniority": "Sr",
-    "USD": " 5,213.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Ciberseguridad Cloud Semi senior",
-    "Seniority": "Ssr",
-    "USD": " 4,493.00 "
-  },
-  {
-    "Pais": "MEXICO",
-    "Perfil": "Consultor Azure e IA Semisenior",
-    "Seniority": "Ssr",
-    "USD": " 4,493.00 "
-  },
-  {
-    "Pais": "MEXICO",
-    "Perfil": "Consultor Azure e IA Senior",
-    "Seniority": "Sr",
-    "USD": " 5,213.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Python Junior",
-    "Seniority": "Jr",
-    "USD": " 2,691.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Python Semi senior",
-    "Seniority": "Ssr",
-    "USD": " 3,940.00 "
-  },
-  {
-    "Pais": "CHILE",
-    "Perfil": "Desarrollador Python Senior",
-    "Seniority": "Sr",
-    "USD": " 4,941.00 "
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Android",
-    "Seniority": "Jr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Android",
-    "Seniority": "Ssr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Android",
-    "Seniority": "Sr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Angular",
-    "Seniority": "Jr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Angular",
-    "Seniority": "Ssr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador Angular",
-    "Seniority": "Sr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador IOS",
-    "Seniority": "Jr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador IOS",
-    "Seniority": "Ssr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador IOS",
-    "Seniority": "Sr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador React",
-    "Seniority": "Jr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador React",
-    "Seniority": "Ssr",
-    "USD": null
-  },
-  {
-    "Pais": "CHILE - ARG",
-    "Perfil": "Desarrollador React",
-    "Seniority": "Sr",
-    "USD": null
-  }
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Jefe Proyecto - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2338.39"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Jefe Proyecto - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Jefe Proyecto - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4308.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Arquitecto de Software - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2690.74"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Arquitecto de Software - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3759.83"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Arquitecto de Software - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4941.04"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Científico de Datos - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5068.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Científico de Datos - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6694.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2207.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3365.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DevOps - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5426.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DevOps - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$8020.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2930.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6315.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2642.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4120.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6315.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End (PHP) - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1810.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End (PHP) - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2691.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End (PHP) - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3576.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2786.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6315.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA SQL Server - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1809.85"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA SQL Server - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2866.92"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA SQL Server - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4492.58"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA Oracle - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1809.84"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA Oracle - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2866.92"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DBA Oracle - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3940.02"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Procesos - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1633.67"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Procesos - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2690.75"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista de Procesos - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3575.65"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Ingeniero de Sistemas - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1809.85"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Ingeniero de Sistemas - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2690.75"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Ingeniero de Sistemas - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3575.64"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador .NET - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1986.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador .NET - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2867.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador .NET - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3940.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Java - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2162.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Java - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3043.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Java - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4493.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador JavaScript - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1810.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador JavaScript - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2515.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador JavaScript - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3043.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador ABAP - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2162.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador ABAP - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador ABAP - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3940.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Visual Basic - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1634.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Visual Basic - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2691.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Visual Basic - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Microsoft - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1465.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Microsoft - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1986.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Microsoft - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Infraestructura - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2162.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Infraestructura - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Infraestructura - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3940.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista Ciberseguridad - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2162.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista Ciberseguridad - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3219.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Analista Ciberseguridad - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4308.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Redes - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$1465.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Redes - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2338.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Soporte Redes - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2867.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Consultor Dynamics CRM - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4801.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Consultor Dynamics CRM - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$3940.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Consultor Dynamics CRM - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$2867.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Consultor Azure e IA - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$4493.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Consultor Azure e IA - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "31/12/2026",
+        "Costo Empresa": "$5213.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2930.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4273.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5674.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Appian - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5068.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2930.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6942.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Business Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4423.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Business Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6315.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DevSecOps Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5674.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "DevSecOps Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$8297.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Integration Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$7194.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2642.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5674.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2497.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3667.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4711.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Científico de Datos - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Científico de Datos - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4753.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2377.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Analista de Calidad QA - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3252.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "DevOps - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3752.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "DevOps - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3127.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Fullstack - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4253.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3127.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Front-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3752.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2752.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Desarrollador Back-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2001.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3252.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "RPA Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4378.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Appian - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2001.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3002.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "BI Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4378.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Business Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2752.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Business Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "DevSecOps Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3752.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "DevSecOps Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5629.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Integration Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5253.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3127.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "Mobile Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4378.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2502.00"
+    },
+    {
+        "Pais": "Argentina",
+        "Partner": "XMS",
+        "Perfil": "System Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Jefe Proyecto - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5001.21"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Científico de Datos - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3986.45"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Científico de Datos - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4473.56"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Analista de Calidad QA - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$1626.44"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Analista de Calidad QA - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2548.30"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Analista de Calidad QA - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3118.97"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "DevOps - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3438.55"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "DevOps - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4331.55"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Fullstack - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2322.37"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Fullstack - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3215.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Fullstack - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3885.03"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Front-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$1875.89"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Front-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2545.61"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Front-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3215.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Back-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2099.13"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Back-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2992.08"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador Back-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3438.55"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "RPA Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2504.40"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "RPA Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3514.06"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "RPA Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4435.92"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Appian - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2723.89"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Appian - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4260.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Appian - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4918.80"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "BI Specialist - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2504.40"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "BI Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3228.72"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "BI Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3904.75"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Business Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2943.38"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Business Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3821.34"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "DevSecOps Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4260.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "DevSecOps Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4918.80"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Integration Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$5138.29"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Mobile Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2723.89"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Mobile Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3382.36"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Mobile Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$4260.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "System Analyst - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2065.42"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "System Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$2943.38"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "System Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "27/02/2026",
+        "Costo Empresa": "$3777.45"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Especialista Unix/Linux",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3382.36"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Especialista Unix/Linux",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4699.31"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador C/Unix",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3821.34"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "Desarrollador C/Unix",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4918.80"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Progrez",
+        "Perfil": "DBA Informix",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4216.43"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Científico de Datos - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Científico de Datos - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6004.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Analista de Calidad QA - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Analista de Calidad QA - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2377.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Analista de Calidad QA - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3752.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "DevOps - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "DevOps - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6254.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Fullstack - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Fullstack - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Fullstack - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Front-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Front-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3252.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Front-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Back-End - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Back-End - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3377.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Desarrollador Back-End - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "RPA Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2251.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "RPA Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3627.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "RPA Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Appian - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "BI Specialist - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "BI Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "BI Specialist - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Business Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Business Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "DevSecOps Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "DevSecOps Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6504.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Integration Specialist - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$6504.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Mobile Developer - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2126.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Mobile Developer - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "Mobile Developer - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$5003.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "System Analyst - Junior",
+        "Seniority": "Junior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$1876.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "System Analyst - Semi",
+        "Seniority": "Semi",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2877.00"
+    },
+    {
+        "Pais": "Colombia",
+        "Partner": "Talycap",
+        "Perfil": "System Analyst - Senior",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$4003.00"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Jr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3217.41"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3920.57"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4946.68"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Arquitecto Cloud",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$5754.47"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Arquitecto de Software",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$5679.98"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Arquitecto de Software",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$6463.23"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Cientifico de Datos",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3920.57"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Cientifico de Datos",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$5679.98"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista de Calidad QA",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3322.04"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista de Calidad QA",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3920.57"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DevOps",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3520.12"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Fullstack",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4946.68"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Fullstack",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$6463.23"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Front-end",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3854.69"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Back-end (Java)",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3889.14"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Back-end (Python)",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3854.69"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador PHP",
+        "Seniority": "Jr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$2414.78"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador PHP",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$2888.43"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador PHP",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3569.63"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista Funcional",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$2414.78"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista Funcional",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3217.41"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Ingeniero de Datos",
+        "Seniority": "Jr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3322.04"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Ingeniero de Datos",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3920.57"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Ingeniero de Datos",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4946.68"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Program Manager",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4811.04"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Program Manager",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4955.72"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$4673.25"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "10/3/2026",
+        "Costo Empresa": "$4946.68"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA SQL SERVER",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "10/3/2026",
+        "Costo Empresa": "$4863.57"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA ORACLE",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "10/3/2026",
+        "Costo Empresa": "$5663.62"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA POSTGRE SQL",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "10/3/2026",
+        "Costo Empresa": "$4946.68"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Diseñador UX",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$3197.17"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Especialista de Seguridad",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$5320.43"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Documentador",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "31/12/2025",
+        "Costo Empresa": "$2875.51"
+    }
 ]
