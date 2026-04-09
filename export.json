@@ -1,6 +1,94 @@
 [
     {
         "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$4302.16"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Arquitecto de Software",
+        "Seniority": "Sr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$5840.01"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Backend",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$3394.67"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Desarollador Frontend",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$3046.46"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista QA",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$3394.67"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista Funcional",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$2467.65"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analista BI",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$2951.78"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Devops",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$5064.81"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Especialista de Seguridad",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$4765.65"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Tecnico de Soporte N1",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$3287.92"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Analistas Soporte N2",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "01/04/2026",
+        "Costo Empresa": "$2467.65"
+    },
+    {
+        "Pais": "Chile",
         "Partner": "XMS",
         "Perfil": "Jefe Proyecto - Junior",
         "Seniority": "Junior",
@@ -966,6 +1054,102 @@
         "Seniority": "Senior",
         "Fecha de Actualizacion": "03/04/2026",
         "Costo Empresa": "$3502.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Project Manager",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$4150.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Arquitecto de Datos",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$5371.01"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "ingeniero DataOps",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$4394.46"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador Full Stack",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$3173.78"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Analista de datos",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$1708.96"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Ingeniero de datos",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$4150.32"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Científico de datos",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$4638.6"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Analista QA",
+        "Seniority": "Ssr",
+        "Fecha de Actualizacion": "25/10/2025",
+        "Costo Empresa": "$2929.64"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "XMS",
+        "Perfil": "Coordinación de operaciones TI - SAP",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2218.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "XMS",
+        "Perfil": "Análisis funcional / técnico SAP - FI",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3080.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "XMS",
+        "Perfil": "Análisis funcional / técnico SAP - MM",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$2710.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "XMS",
+        "Perfil": "Análisis funcional / técnico SAP - Accesos y Seguridad",
+        "Seniority": "Senior",
+        "Fecha de Actualizacion": "03/04/2026",
+        "Costo Empresa": "$3996.00"
     },
     {
         "Pais": "Peru",
