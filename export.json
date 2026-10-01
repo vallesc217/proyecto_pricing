@@ -1,5 +1,21 @@
 [
     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Sr-max",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$5021.65"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Jefe Proyecto",
+        "Seniority": "Sr-min",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$4543.40"
+    },
+    {
         "Pais": "Chile",
         "Partner": "Tivit",
         "Perfil": "Jefe Proyecto",
