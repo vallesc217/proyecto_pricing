@@ -2,6 +2,38 @@
     {
         "Pais": "Peru",
         "Partner": "Tivit",
+        "Perfil": "Analista Soporte N2",
+        "Seniority": "Sr-max-onsite",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$6600.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Analista Soporte N2",
+        "Seniority": "Sr-min-onsite",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$4950.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Analista Soporte N1",
+        "Seniority": "Ssr-min",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$3630.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Analista Soporte N1",
+        "Seniority": "Ssr-max",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$4620.00"
+    },
+    {
+        "Pais": "Peru",
+        "Partner": "Tivit",
         "Perfil": "Jefe Proyecto",
         "Seniority": "Sr-max",
         "Fecha de Actualizacion": "24/08/2026",
