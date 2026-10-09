@@ -1,4 +1,36 @@
 [
+     {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA Ssr",
+        "Seniority": "Sr-min",
+        "Fecha de Actualizacion": "05/10/2026",
+        "Costo Empresa": "$3586.34"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "DBA Ssr",
+        "Seniority": "Sr-max",
+        "Fecha de Actualizacion": "05/10/2026",
+        "Costo Empresa": "$4065.55"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Lider DBA",
+        "Seniority": "Sr-max",
+        "Fecha de Actualizacion": "05/10/2026",
+        "Costo Empresa": "$5312.77"
+    },
+    {
+        "Pais": "Chile",
+        "Partner": "Tivit",
+        "Perfil": "Lider DBA",
+        "Seniority": "Sr-min",
+        "Fecha de Actualizacion": "05/10/2026",
+        "Costo Empresa": "$4635.81"
+    },
     {
         "Pais": "Peru",
         "Partner": "Tivit",
