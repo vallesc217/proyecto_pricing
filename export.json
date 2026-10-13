@@ -1,5 +1,21 @@
 [
      {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Gestor de Conocimiento (formador)",
+        "Seniority": "Ssr-max",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$1154.35"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Gestor de Conocimiento (formador)",
+        "Seniority": "Ssr-min",
+        "Fecha de Actualizacion": "24/09/2026",
+        "Costo Empresa": "$961.96"
+    },
+     {
         "Pais": "Chile",
         "Partner": "Tivit",
         "Perfil": "DBA Ssr",
