@@ -1,4 +1,52 @@
 [
+       {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Sr-max",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$4569.30"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Sr-min",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$3847.84"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Ssr-min",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$3126.37"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Ssr-max",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$3607.35"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Jr-max",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$2645.39"
+    },
+     {
+        "Pais": "Peru",
+        "Partner": "Tivit",
+        "Perfil": "Desarrollador FullStack",
+        "Seniority": "Jr-min",
+        "Fecha de Actualizacion": "24/08/2026",
+        "Costo Empresa": "$2164.41"
+    },
      {
         "Pais": "Peru",
         "Partner": "Tivit",
